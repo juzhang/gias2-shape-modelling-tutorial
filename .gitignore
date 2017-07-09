@@ -1,0 +1,9 @@
+doc/_build/*
+doc/_static/*
+doc/_templates/*
+mds/*
+*.pdf
+*.whl
+data/fitted_meshes/*
+data/aligned_meshes/*
+data/shape_model/*

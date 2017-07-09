@@ -1,0 +1,10 @@
+fitted_meshes/2007_5028_l_rbfreg.ply
+fitted_meshes/2008_0006_l_rbfreg.ply
+fitted_meshes/2008_0010_l_rbfreg.ply
+fitted_meshes/2008_0019_l_rbfreg.ply
+fitted_meshes/2008_0051_l_rbfreg.ply
+fitted_meshes/2008_0158_l_rbfreg.ply
+fitted_meshes/2008_1342_l_rbfreg.ply
+fitted_meshes/2008_1461_l_rbfreg.ply
+fitted_meshes/2008_1489_l_rbfreg.ply
+fitted_meshes/2008_1524_l_rbfreg.ply
