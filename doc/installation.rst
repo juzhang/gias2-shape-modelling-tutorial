@@ -23,14 +23,14 @@ Anaconda is an umbrella package of Python packages for scientific computing. It 
 
         pip install path\to\gias2-X.X.X-py2-none-any.whl
 
-    where X.X.X is the version number.
+where X.X.X is the version number.
 
 5. You now should be able to import gias2 in a python session::
     
     python
-    > import gias2
+    import gias2
 
-Linux, Python 2
+Linux, Python 2 
 ===============
 1. Install dependencies
 
@@ -41,15 +41,18 @@ Linux, Python 2
 
         pip install path\to\gias2-X.X.X-py2-none-any.whl
 
-    where X.X.X is the version number.
+where X.X.X is the version number.
 
 4. You now should be able to import gias2 in a python session::
     
     python
-    > import gias2
+    import gias2
 
-Linux, Python 3
-===============
+Linux, Python 3 (Not Recommended)
+=================================
+
+Note that you are likely to suffer problems with Mayavi in Python 3. As a result, 3-D visualisation will not work for gias-trainpcashapemodel.
+
 1. Build and install VTK and VTK python bindings. `This <http://ghoshbishakh.github.io/blog/blogpost/2016/07/13/building-vtk-with-python3-wrappers.html>`_ is a good tutorial.
 
 2. Install visualisation dependencies
@@ -61,10 +64,10 @@ Linux, Python 3
 
         pip install path\to\gias2-X.X.X-py3-none-any.whl
 
-    where X.X.X is the version number.
+where X.X.X is the version number.
 
 5. You now should be able to import gias2 in a python session::
     
     python
-    > import gias2
+    import gias2
     
